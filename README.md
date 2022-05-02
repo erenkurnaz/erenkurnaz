@@ -4,16 +4,13 @@
 * *I’m currently interested in **Go***
 ___
 ### # TechStack
-
 ![](https://img.shields.io/badge/Node.js-eb7a34?style=flat&logo=node.js&logoColor=fff&labelColor=2a2a2a&logoWidth=24)
 ![](https://img.shields.io/badge/TypeScript-eb7a34?style=flat&logo=typescript&logoColor=fff&labelColor=2a2a2a&logoWidth=24)
-![](https://img.shields.io/badge/Javascript-eb7a34?style=flat&logo=javascript&logoColor=fff&labelColor=2a2a2a&logoWidth=24)
+![](https://img.shields.io/badge/JavaScript-eb7a34?style=flat&logo=javascript&logoColor=fff&labelColor=2a2a2a&logoWidth=24)
 ![](https://img.shields.io/badge/NestJS-eb7a34?style=flat&logo=nestjs&logoColor=fff&labelColor=2a2a2a&logoWidth=24)
-![](https://img.shields.io/badge/React-eb7a34?style=flat&logo=react&logoColor=fff&labelColor=2a2a2a&logoWidth=24)
-![](https://img.shields.io/badge/Next.js-eb7a34?style=flat&logo=next.js&logoColor=fff&labelColor=2a2a2a&logoWidth=24)
+![](https://img.shields.io/badge/GraphQL-eb7a34?style=flat&logo=graphql&logoColor=fff&labelColor=2a2a2a&logoWidth=24)
 ![](https://img.shields.io/badge/Socket.io-eb7a34?style=flat&logo=socket.io&logoColor=fff&labelColor=2a2a2a&logoWidth=24)
 ![](https://img.shields.io/badge/Jest-eb7a34?style=flat&logo=jest&logoColor=fff&labelColor=2a2a2a&logoWidth=24)
-
 
 ![](https://img.shields.io/badge/MongoDB-eb7a34?style=flat&logo=mongodb&logoColor=fff&labelColor=2a2a2a&logoWidth=24)
 ![](https://img.shields.io/badge/PostgreSQL-eb7a34?style=flat&logo=postgresql&logoColor=fff&labelColor=2a2a2a&logoWidth=24)
@@ -22,12 +19,18 @@ ___
 ![](https://img.shields.io/badge/MikroORM-eb7a34?style=flat&logoColor=fff)
 ![](https://img.shields.io/badge/TypeORM-eb7a34?style=flat&logoColor=fff)
 
-
 ![](https://img.shields.io/badge/Docker-eb7a34?style=flat&logo=docker&logoColor=fff&labelColor=2a2a2a&logoWidth=24)
 ![](https://img.shields.io/badge/Git-eb7a34?style=flat&logo=git&logoColor=fff&labelColor=2a2a2a&logoWidth=24)
 ![](https://img.shields.io/badge/Nginx-eb7a34?style=flat&logo=nginx&logoColor=fff&labelColor=2a2a2a&logoWidth=24)
 ![](https://img.shields.io/badge/AWS-eb7a34?style=flat&logo=amazonaws&logoColor=fff&labelColor=2a2a2a&logoWidth=24)
 ![](https://img.shields.io/badge/Heroku-eb7a34?style=flat&logo=heroku&logoColor=fff&labelColor=2a2a2a&logoWidth=24)
+
+*If needed* \
+![](https://img.shields.io/badge/HTML-eb7a34?style=flat&logo=html5&logoColor=fff&labelColor=2a2a2a&logoWidth=24)
+![](https://img.shields.io/badge/SCSS-eb7a34?style=flat&logo=sass&logoColor=fff&labelColor=2a2a2a&logoWidth=24)
+![](https://img.shields.io/badge/React-eb7a34?style=flat&logo=react&logoColor=fff&labelColor=2a2a2a&logoWidth=24)
+![](https://img.shields.io/badge/Next.js-eb7a34?style=flat&logo=next.js&logoColor=fff&labelColor=2a2a2a&logoWidth=24)
+![](https://img.shields.io/badge/Angular-eb7a34?style=flat&logo=angular&logoColor=fff&labelColor=2a2a2a&logoWidth=24)
 
 ### # Stats
 <a href="https://github.com/erenkurnaz/erenkurnaz">
