@@ -30,8 +30,8 @@ ___
 
 ### # Stats
 <div>
-  <img src="https://github-readme-stats.vercel.app/api?username=erenkurnaz&count_private=true&show_icons=true&theme=dark&title_color=fff&icon_color=eb7a34&bg_color=2a2a2a&text_color=ffffff&include_all_commits=true" height=200/>
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenkurnaz&layout=compact&theme=dark&bg_color=2a2a2a&text_color=ffffff&title_color=fff" />
+  <img src="https://github-readme-stats.vercel.app/api?username=erenkurnaz&count_private=true&show_icons=true&theme=dark&title_color=fff&icon_color=eb7a34&bg_color=2a2a2a&text_color=ffffff&include_all_commits=true" height=170/>
+  <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenkurnaz&layout=compact&theme=dark&bg_color=2a2a2a&text_color=ffffff&title_color=fff" />
 </div>
 
 ### # Contact
