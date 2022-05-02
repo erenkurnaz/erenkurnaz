@@ -30,10 +30,12 @@ ___
 ![](https://img.shields.io/badge/Heroku-eb7a34?style=flat&logo=heroku&logoColor=fff&labelColor=2a2a2a&logoWidth=24)
 
 ### # Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=erenkurnaz&count_private=true&show_icons=true&theme=dark&title_color=fff&icon_color=eb7a34&bg_color=2a2a2a&text_color=ffffff&include_all_commits=true" height=170/>
-  <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenkurnaz&layout=compact&theme=dark&bg_color=2a2a2a&text_color=ffffff&title_color=fff" />
-</div>
+<a href="https://github.com/erenkurnaz/erenkurnaz">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=erenkurnaz&count_private=true&show_icons=true&theme=dark&line_height=27&title_color=fff&icon_color=eb7a34&bg_color=2a2a2a&text_color=ffffff&include_all_commits=true"/>
+</a>
+<a href="https://github.com/erenkurnaz/erenkurnaz">
+  <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenkurnaz&theme=dark&bg_color=2a2a2a&text_color=ffffff&title_color=fff&langs_count=3" />
+</a>
 
 ### # Contact
 [![](https://img.shields.io/badge/h.erenkurnaz@icloud.com-eb7a34?style=flat-square&logo=gmail&logoColor=fff&labelColor=2a2a2a&logoWidth=24)](mailto:h.erenkurnaz@icloud.com)
